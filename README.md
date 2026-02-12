@@ -1,0 +1,2 @@
+# Credit_card_applications
+ANÁLISIS DE APROBACIÓN CREDITICIA EN POWER BI
